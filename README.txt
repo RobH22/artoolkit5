@@ -1,6 +1,6 @@
 Read me for ARToolKit.
 ======================
-
+Change made by RH to test GitHub.
 
 Contents.
 ---------
